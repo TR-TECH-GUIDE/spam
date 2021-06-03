@@ -6,6 +6,7 @@ Termux code : -</p>
 <p><span style="color:#7f8c8d">pkg install python<br />
 pip install pyfiglet<br />
 pkg install git<br />
+pip install requests<br />
 git clone https://github.com/Malith-Rukshan/spam<br />
 cd spam<br />
 python spam.py</span></p>

@@ -1,13 +1,17 @@
-# spam
-Termux code : -
+<h1 style="text-align:center"><span style="color:#006ef5">☬ ☬&nbsp; Unlimited Spammer&nbsp; ☬ ☬</span></h1>
 
-pkg install python
-pip install pyfiglet
-pkg install git
-git clone https://github.com/Malith-Rukshan/spam
-cd spam
-python spam.py
+<p># spam<br />
+Termux code : -</p>
 
-Limit එකකට Use කරන්න Bro නැත්තම් මේ ටිකත් Block වෙයි 😂🤚
+<p><span style="color:#7f8c8d">pkg install python<br />
+pip install pyfiglet<br />
+pkg install git<br />
+git clone https://github.com/Malith-Rukshan/spam<br />
+cd spam<br />
+python spam.py</span></p>
 
-Source Code Owner :- https://t.me/malithrukshan
+<p>&gt;&gt; Limit එකකට Use කරන්න Bro නැත්තම් මේ ටිකත් Block වෙයි 😂🤚</p>
+
+<h3 style="text-align:center">☬&nbsp;&nbsp;Source Code Owner :- <a href="https://t.me/malithrukshan">https://t.me/malithrukshan</a>&nbsp;☬</h3>
+
+<p style="text-align:center">⚒&nbsp; &nbsp;Ｍａｌｉｔｈ Ｒｕｋｓｈａｎ&nbsp; &nbsp;⚒</p>
